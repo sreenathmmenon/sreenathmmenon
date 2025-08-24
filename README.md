@@ -53,4 +53,4 @@
 
 <p align="center">
   <i>Building the future of infrastructure, one commit at a time.</i>
-</p>%
+</p>

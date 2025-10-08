@@ -39,8 +39,8 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Text Search](https://sreenathmmenon.substack.com/)
-- [GraphQL Introduction](https://sreenathmmenon.substack.com/)
+- [MongoDB Text Search](#)
+- [GraphQL Introduction](#)
 - [Linux Performance Debugging](https://sreenathmmenon.substack.com/)
 <!-- BLOG-POST-LIST:END -->
 

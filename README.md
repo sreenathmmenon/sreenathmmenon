@@ -25,7 +25,11 @@
 
 - **[llmswap](https://pypi.org/project/llmswap/)** - Python package for seamless switching between LLM providers
 - **[OpenStack MCP Server](https://github.com/sreenathmmenon/openstack-mcp-server)** - Natural language infrastructure management
+- **[Eklavya - Education & Virtual Mentoring platform](https://github.com/sreenathmmenon/eklavya-platform)** -  Virtual mentor concept based on Eklavya story of Mahabharatha
 - **Infrastructure AI** - Exploring conversational interfaces for cloud operations
+- **[EngineIQ - Democratizing Knowledge Access for Equitable Tech Workplaces](https://github.com/sreenathmmenon/EngineIQ)**
+- **[Infra Agent](AI-Powered DevOps Copilot with Human-in-the-Loop** - AI powered DevOps copilot with Human in the Loop
+
 
 ## 💻 Tech Stack
 

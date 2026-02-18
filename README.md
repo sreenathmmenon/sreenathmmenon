@@ -24,6 +24,7 @@
 ## 🚀 What I'm Building
 
 - **[LLMSwap](https://pypi.org/project/llmswap/)** - Python package for seamless switching between LLM providers | 30K pypi downloads within 5 months
+- **[Eklavya Council](https://eklavya-council.onrender.com/)** - The debate your question deserves. You pose a question. A council of expert AI personas debate it in structured rounds. A synthesis engine produces decisions, dissent, open questions, and action items. Not a chatbot. A thinking environment.
 - **[OpenStack MCP Server](https://github.com/sreenathmmenon/openstack-mcp-server)** - Natural language infrastructure management
 - **[Eklavya - Education & Virtual Mentoring platform](https://github.com/sreenathmmenon/eklavya-platform)** -  Virtual mentor concept based on Eklavya story of Mahabharatha
 - **[EngineIQ - Democratizing Knowledge Access for Equitable Tech Workplaces](https://github.com/sreenathmmenon/EngineIQ)**

@@ -48,7 +48,7 @@
 - [Why LLMSwap](https://sreenathmenon.com/blog/2025-08-30-hackathon-to-open-source-llmswap/)
 - [MongoDB Text Search](#)
 - [GraphQL Introduction](#)
-- [Linux Performance Debugging](https://sreenathmmenon.substack.com/)
+- [Linux Performance Debugging](#)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Currently Learning
